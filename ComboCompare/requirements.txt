@@ -1,0 +1,22 @@
+## To install these requirements, run
+## pip install -U -r requirements.txt
+## (the -U option also upgrades packages; from the second time on,
+## just run
+## pip install -r requirements.txt
+##
+## NOTE: before running the command above, you need to install a recent version
+## of pip from the website, and then possibly install/upgrade setuptools using
+## sudo pip install --upgrade setuptools
+## numpy
+numpy >=1.10
+
+## scipy
+scipy >= 0.16
+
+##
+Cython >= 0.22.1
+
+## mpi4py
+## mpi4py >= 2.0
+
+matplotlib
