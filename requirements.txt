@@ -1,29 +1,29 @@
-appnope==0.1.2
-backcall==0.2.0
-cycler==0.10.0
-Cython==3.0a6
-decorator==5.0.7
-emcee==3.0.2
--e git+https://github.com/SheffieldML/GPy.git@434e1b0f5e1def4d02c34fa5965cbba1e1db06e8#egg=GPy
+appnope #==0.1.2
+backcall #==0.2.0
+cycler #==0.10.0
+Cython #==3.0a6
+decorator #==5.0.7
+emcee #==3.0.2
+-e git+https://github.com/sanketdiwale/GPy.git@434e1b0f5e1def4d02c34fa5965cbba1e1db06e8#egg=GPy
 -e git+https://github.com/sanketdiwale/GPyOpt.git@1844f5ec8f2d7e02cd47dc50072ea331877db4a7#egg=GPyOpt
-ipython==7.22.0
-ipython-genutils==0.2.0
-jedi==0.18.0
-kiwisolver==1.3.1
-matplotlib==3.4.1
-numpy==1.20.2
-paramz==0.9.5
-parso==0.8.2
-pexpect==4.8.0
-pickleshare==0.7.5
-Pillow==8.2.0
-prompt-toolkit==3.0.18
-ptyprocess==0.7.0
-Pygments==2.8.1
-pyparsing==2.4.7
-python-dateutil==2.8.1
-scipy==1.6.2
-six==1.15.0
-tqdm==4.60.0
-traitlets==5.0.5
-wcwidth==0.2.5
+ipython
+ipython-genutils
+jedi #==0.18.0
+kiwisolver #==1.3.1
+matplotlib
+numpy
+paramz #==0.9.5
+parso #==0.8.2
+pexpect #==4.8.0
+pickleshare #==0.7.5
+Pillow
+prompt-toolkit #==3.0.18
+ptyprocess #==0.7.0
+Pygments #==2.8.1
+pyparsing #==2.4.7
+python-dateutil
+scipy
+six #==1.15.0
+tqdm #==4.60.0
+traitlets #==5.0.5
+wcwidth #==0.2.5
